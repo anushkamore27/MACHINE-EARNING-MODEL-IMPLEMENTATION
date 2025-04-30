@@ -9,4 +9,5 @@ LEARN TO CLASSIFY OR PREDICT OUTCOMES
 FROM A DATASET SPAM EMAIL
 DETECTION
 OUTPUT
+![Image](https://github.com/user-attachments/assets/a89f3865-1334-41bb-a4de-27c51df6cdaf)
 
